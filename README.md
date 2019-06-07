@@ -50,7 +50,7 @@ https://github.com/UrbanInstitute/spark-social-science
 
 ## Code for Generating the ADRF Data
 
-This repository holds the code for creating the linked Home Mortgage Disclosure Act (HMDA) and American Community Survey Public Use Microdata (ACS PUMS) files on the [Administrative Data Research Facilities (ADRF) page](https://adrf.urban.org). All code is written in SAS and authored by [Jun Zhu](https://www.urban.org/author/jun-zhu), of the Urban Institute. Please see the [ADRF website](https://adrf.urban.org) for more information on citation.
+This repository holds the code for creating the linked Home Mortgage Disclosure Act (HMDA) and American Community Survey Public Use Microdata (ACS PUMS) files. All code is written in SAS and authored by [Jun Zhu](https://www.urban.org/author/jun-zhu), of the Urban Institute.
 
 ## License
 
