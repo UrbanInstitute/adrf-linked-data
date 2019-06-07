@@ -25,19 +25,19 @@ Crosswalk data sourced from: Missouri Census Data Center, MABLE/Geocorr2k and MA
 
 ## Sample Research Products
 
-Housing Profile of Areas Affected by Hurricane Harvey
+[Housing Profile of Areas Affected by Hurricane Harvey](https://www.urban.org/research/publication/housing-profile-areas-affected-hurricane-harvey)
 Bing Bai, Sarah Strochak, Bhargavi Ganesh
 October 27, 2017
 
-Housing Profile of Areas Affected by Hurricane Irma
+[Housing Profile of Areas Affected by Hurricane Irma](https://www.urban.org/research/publication/housing-profile-areas-affected-hurricane-irma)
 Bing Bai, Sarah Strochak, Bhargavi Ganesh
 October 27, 2017
 
-Housing Affordability: Local and National Perspectives
+[Housing Affordability: Local and National Perspectives](https://www.urban.org/research/publication/housing-affordability-local-and-national-perspectives)
 Laurie Goodman, Wei Li, Jun Zhu
 March 28, 2018
 
-Is Limited English Proficiency a Barrier to Homeownership?
+[Is Limited English Proficiency a Barrier to Homeownership?](https://www.urban.org/research/publication/limited-english-proficiency-barrier-homeownership)
 Edward Golding, Laurie Goodman, Sarah Strochak
 March 26, 2018
 
