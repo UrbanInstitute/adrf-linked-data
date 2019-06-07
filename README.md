@@ -12,9 +12,9 @@ This project was funded by the Alfred P. Sloan Foundation.
 
 The project explored data collection and sampling from public sources that offer robust information regarding mortgages, people and place. We have standardized and linked key data variables over time from two government data sources, the [Home Mortgage Disclosure Act (HMDA)](https://www.ffiec.gov/hmda/hmdaproducts.htm) and the [Census American Community Survey (ACS)](https://www.census.gov/programs-surveys/acs/).
 
-[Urban ADRF 101 Slides]()
+[Urban ADRF 101 Slides](https://github.com/UrbanInstitute/adrf-linked-data/blob/master/ADRF%20Urban%20101%20slides%20for%20website.pptx?raw=true)
 
-[Download Data Dictionary]()
+[Download Data Dictionary](https://github.com/UrbanInstitute/adrf-linked-data/blob/master/Data_Dictionary_0509.csv?raw=true)
 
 Citation: Urban Institute Sloan ADRF Database. Retrieved from http://adrf.urban.org. 2017.
 
